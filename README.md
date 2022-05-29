@@ -1,2 +1,2 @@
 # Exploratory data analysis on COVID19  dataset
-web app link - https://vishavkamboj01.github.io/Covid_Analysis/
+web app link - https://tinyurl.com/balkars4
